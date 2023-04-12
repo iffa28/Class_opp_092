@@ -26,7 +26,7 @@ void Mahasiswa::printData() {
 
 }
 class matakuliah { 
-private:
+private: 
     string kode;
     string namaMk;
     int sks;
