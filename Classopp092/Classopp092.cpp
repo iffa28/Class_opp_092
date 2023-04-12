@@ -47,7 +47,7 @@ public:
     }
 };
 
-int main()
+int main() 
 {
     Mahasiswa mhs;
     matakuliah mk;
