@@ -31,7 +31,7 @@ private:
     string namaMk;
     int sks;
 public: 
-    void inputMK() {
+    void inputMK() { 
         cout << "\n\nMasukkan kode matakuliah : ";
         cin >> kode;
         cout << "Masukkan Nama matakuliah : ";
